@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Second-year **Computer Science & Engineering** student  
+- 🎓 Third-year **Computer Science & Engineering** student  
 - 🔍 Actively exploring **Cybersecurity, Ethical Hacking, and Digital Forensics**
 - 🤖 Working with **AI/ML models for security applications**
 - 🛠️ Experienced with **FastAPI, Flutter, Firebase, Linux**
@@ -55,8 +55,9 @@
 
 ---
 
-<p align="center">
+<div align="center"> 
+  <p>Visitor count</p>
   <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
-</p>
+</div>
 
 ⭐ *Always learning. Always breaking (ethically).*  
