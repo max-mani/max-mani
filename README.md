@@ -55,9 +55,9 @@
 
 ---
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/max-mani/count.svg" alt="Visitor's Count" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=max-mani&color=blue" />
+</p>
+
 
 ⭐ *Always learning. Always breaking (ethically).*  
