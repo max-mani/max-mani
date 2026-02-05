@@ -1,21 +1,63 @@
-## Hi there 👋
+## Hi there 👋 I'm Mani
 
+🎓 **CSE Undergraduate | Cybersecurity Enthusiast**  
+🔐 Interested in Ethical Hacking, DFIR, AI for Security, and System Security  
+🚀 Building projects that combine **security + real-world impact**
+
+---
+
+### 👨‍💻 About Me
+- 🎓 Second-year **Computer Science & Engineering** student  
+- 🔍 Actively exploring **Cybersecurity, Ethical Hacking, and Digital Forensics**
+- 🤖 Working with **AI/ML models for security applications**
+- 🛠️ Experienced with **FastAPI, Flutter, Firebase, Linux**
+- 🧠 Preparing for **GATE (Cybersecurity-focused path)**
+
+---
+
+### 🔭 Current Focus
+- 🔐 Web & Network Security  
+- 📸 AI-based Accident Detection Systems  
+- 🧪 CTFs (DFIR, OSINT, Crypto, Reverse Engineering)  
+- 📱 Security-aware Mobile & Web Apps  
+
+---
+
+### 🧠 Skills & Tools
+**Cybersecurity**
+- Network Attacks & Defenses  
+- Web Vulnerability Analysis  
+- Digital Forensics (Memory, PCAP, Logs)  
+- OSINT & CTF Methodologies  
+
+**Programming**
+- Python, Java, C  
+- JavaScript, Dart (Flutter)  
+
+**Frameworks & Platforms**
+- FastAPI, Firebase  
+- Linux, Git, GitHub  
+- MongoDB  
+
+---
+
+### 📌 Notable Projects
+- 🚨 **Kapaan** – AI-powered accident detection & alert system  
+- 🛡️ **Website Vulnerability Scanner**  
+- 🚁 **Autonomous Minidrone (MathWorks Competition)**  
+- 📱 Flutter apps with real-time notification systems  
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: **19manikandan2005@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/19manikandan-m](https://www.linkedin.com/in/19manikandan-m)
+
+---
 
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/max-mani/count.svg" alt="Visitor's Count" />
 </div>
-<!--
-**max-mani/max-mani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Always learning. Always breaking (ethically).*  
