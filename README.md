@@ -1,63 +1,80 @@
-## Hi there 👋 I'm Mani
-
-🎓 **CSE Undergraduate | Cybersecurity Enthusiast**  
-🔐 Interested in Ethical Hacking, DFIR, AI for Security, and System Security  
-🚀 Building projects that combine **security + real-world impact**
-
----
-
-### 👨‍💻 About Me
-- 🎓 Third-year **Computer Science & Engineering** student  
-- 🔍 Actively exploring **Cybersecurity, Ethical Hacking, and Digital Forensics**
-- 🤖 Working with **AI/ML models for security applications**
-- 🛠️ Experienced with **FastAPI, Flutter, Firebase, Linux**
-- 🧠 Preparing for **GATE (Cybersecurity-focused path)**
-
----
-
-### 🔭 Current Focus
-- 🔐 Web & Network Security  
-- 📸 AI-based Accident Detection Systems  
-- 🧪 CTFs (DFIR, OSINT, Crypto, Reverse Engineering)  
-- 📱 Security-aware Mobile & Web Apps  
-
----
-
-### 🧠 Skills & Tools
-**Cybersecurity**
-- Network Attacks & Defenses  
-- Web Vulnerability Analysis  
-- Digital Forensics (Memory, PCAP, Logs)  
-- OSINT & CTF Methodologies  
-
-**Programming**
-- Python, Java, C  
-- JavaScript, Dart (Flutter)  
-
-**Frameworks & Platforms**
-- FastAPI, Firebase  
-- Linux, Git, GitHub  
-- MongoDB  
-
----
-
-### 📌 Notable Projects
-- 🚨 **Kapaan** – AI-powered accident detection & alert system  
-- 🛡️ **Website Vulnerability Scanner**  
-- 🚁 **Autonomous Minidrone (MathWorks Competition)**  
-- 📱 Flutter apps with real-time notification systems  
-
----
-
-### 📫 Connect With Me
-- 📧 Email: **19manikandan2005@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/19manikandan-m](https://www.linkedin.com/in/19manikandan-m)
-
----
-
-<div align="center"> 
+<div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
+  <img src="https://profile-counter.deno.dev/max-mani/count.svg" alt="Profile Views" />
 </div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=44&center=true&vCenter=true&width=900&height=70&color=4493F8&duration=3500&lines=Hi+There!+👋;I'm+Manikandan+M;Application+Security+Analyst;Full+Stack+%26+Flutter+Developer;Cybersecurity+%26+AI+Enthusiast" />
+</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/max-mani/max-mani/main/assets/profile/manikandan.jpeg" width="180" style="border-radius:50%" />
+</p>
+
+### Pre-final year Computer Science & Engineering student passionate about building **secure, scalable, and real-world impactful systems** across full-stack development, mobile applications, AI-driven solutions, and cybersecurity.
+
+---
+
+### 👨‍💻 Quick Intro
+- 🔐 Application Security Analyst | CTF Player | Reverse Engineering Enthusiast  
+- 🚨 Building AI-powered safety & automation systems (Road Safety, GovTech, LegalTech)  
+- 🧠 Actively learning **System Design**, **Advanced AppSec**, and **Binary Exploitation**  
+- 🏆 **HackX CTF 2025 – 2nd Place Winner**  
+- 💬 Ask me about **Flutter, FastAPI, AppSec, CTFs, Reverse Engineering**  
+- 📂 Open issues here → [GitHub Issues](https://github.com/max-mani/max-mani/issues)
+
+<br>
+
+<div align="center">
+  <a href="mailto:19manikandan2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/19manikandan-m" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/max-mani" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-1e1f26?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<hr>
+
+## 🛠️ Languages & Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,c" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express,fastapi" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,linux,docker,git,github" />
+</p>
+
+<hr>
+
+## 🚀 Featured Projects
+- 🚨 **Kapaan (UYIR)** – AI-based road accident detection & emergency response  
+- 🍔 **KoreConnect** – MERN-based canteen food ordering platform  
+- 🚆 **KMRL Digital Twin** – Metro fleet optimization & analytics platform  
+- 📄 **RTI Assistant** – AI-powered RTI drafting system  
+- 🎓 **Smart Team Formation System** – ML-based student grouping  
+- 📊 **CGPA & SGPA Calculator (KCT CSE)**  
+
+👉 See all projects: https://github.com/max-mani?tab=repositories
+
+<hr>
+
+## ⚡ GitHub Stats
+
+<br>
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=max-mani&theme=transparent&count_private=true&show_icons=true&rank_icon=github" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=max-mani&theme=transparent&border_radius=10" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=max-mani&theme=transparent&layout=donut&langs_count=8&border_radius=10" />
+</div>
+
+<hr>
 
 ⭐ *Always learning. Always breaking (ethically).*  
