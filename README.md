@@ -45,9 +45,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,c" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express,fastapi" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,linux,docker,git,github" />
 </p>
 
