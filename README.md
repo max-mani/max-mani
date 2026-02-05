@@ -56,8 +56,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=max-mani&color=blue" />
+  <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
 </p>
-
 
 ⭐ *Always learning. Always breaking (ethically).*  
