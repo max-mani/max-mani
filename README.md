@@ -72,9 +72,17 @@
 <br>
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=max-mani&theme=transparent&count_private=true&show_icons=true&rank_icon=github" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=max-mani&theme=transparent&border_radius=10" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=max-mani&theme=transparent&layout=donut&langs_count=8&border_radius=10" />
+  <img width="390"
+       src="https://stats-github-readme.vercel.app/api?username=max-mani&show_icons=true&rank_icon=github&theme=tokyonight"
+       alt="GitHub Stats" />
+
+  <img width="390"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=max-mani&theme=tokyonight"
+       alt="GitHub Streak" />
+
+  <img width="325"
+       src="https://stats-github-readme.vercel.app/api/top-langs/?username=max-mani&layout=donut&langs_count=8&theme=tokyonight"
+       alt="Top Languages" />
 </div>
 
 <hr>
