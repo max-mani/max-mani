@@ -3,13 +3,13 @@
   <img src="https://profile-counter.deno.dev/max-mani/count.svg" alt="Profile Views" />
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/max-mani/max-mani/main/background.jpg" width="180" style="border-radius:50%" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=44&center=true&vCenter=true&width=900&height=70&color=4493F8&duration=3500&lines=Hi+There!+👋;I'm+Manikandan+M;Application+Security+Analyst;Full+Stack+%26+Flutter+Developer;Cybersecurity+%26+AI+Enthusiast" />
 </h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/max-mani/max-mani/main/assets/profile/manikandan.jpeg" width="180" style="border-radius:50%" />
-</p>
 
 ### Pre-final year Computer Science & Engineering student passionate about building **secure, scalable, and real-world impactful systems** across full-stack development, mobile applications, AI-driven solutions, and cybersecurity.
 
