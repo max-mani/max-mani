@@ -4,7 +4,11 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/max-mani/max-mani/main/background.jpg" width="180" style="border-radius:50%" />
+  <img
+    src="https://raw.githubusercontent.com/max-mani/max-mani/main/background.jpg"
+    alt="Developer coding at night"
+    style="width:100%; max-width:1600px;"
+  />
 </p>
 
 <h1 align="center">
