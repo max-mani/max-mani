@@ -36,9 +36,6 @@
   <a href="https://www.linkedin.com/in/19manikandan-m" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/max-mani" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1e1f26?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </div>
 
 <hr>
