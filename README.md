@@ -12,7 +12,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=900&height=70&color=00FF41&duration=3500&pause=800&lines=%3E+booting+secure+shell...;%3E+whoami;%3E+Manikandan+M+(aka+Maxim)+_;%3E+location%3A+Chennai%2C+India;%3E+role%3A+Application+Security+Analyst;%3E+stack%3A+Full+Stack+%2B+Flutter+%2B+AI;%3E+status%3A+Always+breaking+(ethically)" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=900&height=70&color=00FF41&duration=3500&pause=800&lines=%3E+booting+secure+shell...;%3E+whoami;%3E+Manikandan+M+(aka+Maxim)+_;%3E+location%3A+Madurai%2C+India;%3E+os%3A+arch+(btw+I+use+arch);%3E+role%3A+Application+Security+Analyst;%3E+stack%3A+Full+Stack+%2B+Flutter+%2B+AI;%3E+status%3A+Always+breaking+(ethically)" />
 </h1>
 
 <p align="center">
@@ -27,8 +27,8 @@
 
 <table>
   <tr><td><b>User</b></td><td><code>Manikandan M</code> &nbsp;<i>(alias: Maxim)</i></td></tr>
-  <tr><td><b>Location</b></td><td><code>Chennai, IN</code></td></tr>
-  <tr><td><b>OS</b></td><td><code>Ubuntu 24.04 LTS</code></td></tr>
+  <tr><td><b>Location</b></td><td><code>Madurai, IN</code></td></tr>
+  <tr><td><b>OS</b></td><td><code>arch</code> &nbsp;<i>(btw I use arch)</i></td></tr>
   <tr><td><b>Shell</b></td><td><code>bash 5.2</code></td></tr>
   <tr><td><b>Status</b></td><td><code>● ONLINE</code></td></tr>
   <tr><td><b>Mode</b></td><td><code>1984 / CYBER TERMINAL</code></td></tr>
@@ -98,18 +98,14 @@
 
 <p align="center"><b>Frameworks &amp; Runtime</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express,fastapi,vue,tailwind&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=bootstrap,vite,django,flask,electron,threejs,redux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express,fastapi,tailwind,vite&theme=dark" />
 </p>
 
 <p align="center"><b>Databases &amp; DevOps</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,linux,docker,git,github&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,git,github,vim,vscode&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postman,figma,npm,kali,raspberrypi,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,kali&theme=dark" />
 </p>
 
 <p align="center"><b>Security Tooling</b></p>
@@ -154,7 +150,7 @@
 - `[*]` **HackX CTF 2025** — `2nd Place Winner`
 - `[*]` **KICTF 2026** — `Team ZERO` · 7 challenges solved · **2125 pts** across `Misc` / `Forensics` / `AI-ML` / `OSINT` / `Crypto`
 - `[+]` Specialties: Reverse Engineering, Web Exploitation, Binary Analysis, OSINT, Steganography
-- `[>]` Full writeups → https://github.com/max-mani?tab=repositories
+- `[>]` Full writeups → [maxmani.in/wirteups](https://maxmani.in/wirteups)
 
 <hr>
 
@@ -162,43 +158,46 @@
 
 > `manikandan@cyber:~$ ./show_stats --theme=tokyonight`
 
-<div align="center">
-  <img height="180"
-       src="https://stats-github-readme.vercel.app/api?username=max-mani&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9"
-       alt="GitHub Stats" />
-  <img height="180"
-       src="https://stats-github-readme.vercel.app/api/top-langs/?username=max-mani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=10"
-       alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img height="180"
-       src="https://streak-stats.demolab.com?user=max-mani&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF00A0&currStreakLabel=00FF41"
-       alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=max-mani&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"
-       alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=max-mani&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FF00A0&area=true&area_color=00FF41"
-       alt="Activity Graph" width="100%" />
-</div>
-
+<!-- Row 1: profile banner -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max-mani&theme=nord_dark"
        alt="Profile Details" width="100%" />
 </div>
 
+<!-- Row 2: primary stats + streak side by side -->
 <div align="center">
-  <img height="180"
+  <a href="https://github.com/max-mani">
+    <img height="195"
+         src="https://stats-github-readme.vercel.app/api?username=max-mani&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&include_all_commits=true&count_private=true"
+         alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/max-mani">
+    <img height="195"
+         src="https://streak-stats.demolab.com?user=max-mani&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF00A0&currStreakLabel=00FF41"
+         alt="GitHub Streak" />
+  </a>
+</div>
+
+<!-- Row 3: top languages + productive time side by side -->
+<div align="center">
+  <img height="195"
+       src="https://stats-github-readme.vercel.app/api/top-langs/?username=max-mani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=10"
+       alt="Top Languages" />
+  <img height="195"
        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=max-mani&theme=nord_dark&utcOffset=5.5"
        alt="Productive Time" />
-  <img height="180"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=max-mani&theme=nord_dark"
-       alt="Most Used Languages" />
+</div>
+
+<!-- Row 4: full-width animated activity graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=max-mani&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FF00A0&area=true&area_color=00FF41"
+       alt="Activity Graph" width="100%" />
+</div>
+
+<!-- Row 5: trophies finale -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=max-mani&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"
+       alt="GitHub Trophies" />
 </div>
 
 <hr>
@@ -223,11 +222,11 @@
 </details>
 
 <details open>
-<summary><b>👾 Pacman</b> — chomps my contributions</summary>
+<summary><b>👾 Pacman</b> — chomps my contributions <i>(dark theme)</i></summary>
 <br/>
 <div align="center">
-  <img alt="Pacman contribution graph"
-       src="https://raw.githubusercontent.com/max-mani/max-mani/pacman-output/pacman-contribution-graph.svg" />
+  <img alt="Pacman contribution graph (dark)"
+       src="https://raw.githubusercontent.com/max-mani/max-mani/pacman-output/pacman-contribution-graph-dark.svg" />
 </div>
 </details>
 
