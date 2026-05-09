@@ -167,23 +167,23 @@
 <!-- Row 2: primary stats + streak side by side -->
 <div align="center">
   <a href="https://github.com/max-mani">
-    <img height="195"
-         src="https://stats-github-readme.vercel.app/api?username=max-mani&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&include_all_commits=true&count_private=true"
+    <img height="170" width="49%"
+         src="https://stats-github-readme.vercel.app/api?username=max-mani&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&include_all_commits=true&count_private=true&card_width=420"
          alt="GitHub Stats" />
   </a>
   <a href="https://github.com/max-mani">
-    <img height="195"
-         src="https://streak-stats.demolab.com?user=max-mani&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF00A0&currStreakLabel=00FF41"
+    <img height="170" width="49%"
+         src="https://streak-stats.demolab.com?user=max-mani&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF00A0&currStreakLabel=00FF41&card_width=420"
          alt="GitHub Streak" />
   </a>
 </div>
 
 <!-- Row 3: top languages + productive time side by side -->
 <div align="center">
-  <img height="195"
-       src="https://stats-github-readme.vercel.app/api/top-langs/?username=max-mani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=10"
+  <img height="170" width="49%"
+       src="https://stats-github-readme.vercel.app/api/top-langs/?username=max-mani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=10&card_width=420"
        alt="Top Languages" />
-  <img height="195"
+  <img height="170" width="49%"
        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=max-mani&theme=nord_dark&utcOffset=5.5"
        alt="Productive Time" />
 </div>
@@ -202,48 +202,14 @@
 
 <hr>
 
-## `$ ./games --launch-all`
+## `$ ./pacman --animate`
 
-> `manikandan@cyber:~$ exec games --animate`
+> `manikandan@cyber:~$ exec pacman --theme=dark --style=aggressive`
 
-<details open>
-<summary><b>🐍 Snake</b> — eats my contributions</summary>
-<br/>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/max-mani/max-mani/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/max-mani/max-mani/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake"
-         src="https://raw.githubusercontent.com/max-mani/max-mani/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-</details>
-
-<details open>
-<summary><b>👾 Pacman</b> — chomps my contributions <i>(dark theme)</i></summary>
-<br/>
 <div align="center">
   <img alt="Pacman contribution graph (dark)"
        src="https://raw.githubusercontent.com/max-mani/max-mani/pacman-output/pacman-contribution-graph-dark.svg" />
 </div>
-</details>
-
-<details open>
-<summary><b>🧱 Breakout</b> — bricks out my contributions</summary>
-<br/>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/max-mani/max-mani/github-breakout/images/breakout-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/max-mani/max-mani/github-breakout/images/breakout-light.svg" />
-    <img alt="Breakout contribution game"
-         src="https://raw.githubusercontent.com/max-mani/max-mani/github-breakout/images/breakout-light.svg" />
-  </picture>
-</div>
-</details>
 
 <hr>
 
